@@ -1,0 +1,16 @@
+# Credentials
+.env
+
+# Generated outputs (large CSVs / JSONs)
+output/
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.venv/
+venv/
+*.egg-info/
+
+# OS
+.DS_Store
